@@ -1,0 +1,4 @@
+#Removes Directory listing in web browseri
+Options -Indexes
+
+
